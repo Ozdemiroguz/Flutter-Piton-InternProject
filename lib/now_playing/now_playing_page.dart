@@ -1,7 +1,3 @@
-//now playing page
-
-import 'dart:html';
-
 import 'package:defaultproject/explore/explore_page_widget.dart';
 import 'package:defaultproject/models/models.dart';
 import 'package:defaultproject/now_playing/now_playing_widgets.dart';
